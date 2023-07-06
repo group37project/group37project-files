@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504966871090",
+    "project_id": "welly-4912f",
+    "storage_bucket": "welly-4912f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504966871090:android:6a1f7f337c085f4d88242b",
+        "android_client_info": {
+          "package_name": "com.example.lifeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504966871090-m7mtmvof9mlo95cquvu3q00nn60e17ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5xHoAuCiF92Js5L3WtpIvLNKa_c2_Iho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504966871090-m7mtmvof9mlo95cquvu3q00nn60e17ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
